@@ -1,2 +1,2 @@
-# digit-recognization-sing-SVM
-Uses Sklearn SVM for classifying digits using pixel density given in dataset 
+# digit-recognization-using-SVM,Logistic regression,K Nearest Neighbor
+ 
